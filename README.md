@@ -40,6 +40,39 @@ The TMDB Movie Revenue Predictions project empowers us to predict movie revenues
 - Python (>=3.6)
 - Jupyter Notebook
 - Required Python packages mentioned in the project notebooks (install with `pip install -r requirements.txt`)
+  
+## What to Expect
+
+### Exploratory Data Analysis (EDA)
+
+Before diving into machine learning models, every project kicks off with exploratory data analysis (EDA). Through visualizations and statistical insights, I delve into the data's intricacies, uncover patterns, and lay the foundation for informed decisions.
+
+### Machine Learning Algorithms
+
+My projects encompass a spectrum of machine learning algorithms, each chosen based on the problem's nuances and objectives. Some of the algorithms featured in my projects include:
+
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Support Vector Machine (SVM)
+- Linear Regression
+- Logistic Regression
+- AdaBoost
+- XGBoost
+- Decision Tree
+- Random Forest
+- And more...
+
+I explore their implementations, analyze their performance, and offer insights into when and why certain algorithms excel in different scenarios.
+
+## Dive into the Projects
+
+Each project in this repository has been meticulously crafted to provide a deep understanding of the underlying concepts. The journey of each project follows a consistent path:
+
+1. **Exploratory Data Analysis:** Unveiling insights, understanding data distributions, and preparing for model building.
+2. **Algorithm Selection:** Choosing the most suitable machine learning algorithms based on the problem statement.
+3. **Model Building and Evaluation:** Implementing algorithms, fine-tuning hyperparameters, and evaluating their performance.
+4. **Visualization:** Displaying results, highlighting key takeaways, and providing a holistic view of the project.
+
 
 ## Getting Started
 
